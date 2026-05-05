@@ -9,9 +9,10 @@ Each Predict the Reliance Industries Stock Price for the next 30 days.
 
 **📁 Dataset Overview**
 The dataset consists of daily stock market data for Reliance Industries from 2015 to 2022, including:
-**Feature**        	**Description**
-* Open	             Opening price of the stock
-* High	             Highest price of the day
-* Low	               Lowest price of the day
-* Close	             Closing price of the day
+| Feature | Description |
+|--------|------------|
+| Open | Opening price of the stock |
+| High | Highest price of the day |
+| Low | Lowest price of the day |
+| Close | Closing price of the day |
 
