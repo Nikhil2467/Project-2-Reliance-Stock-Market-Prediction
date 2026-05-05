@@ -26,11 +26,11 @@ The dataset consists of daily stock market data for Reliance Industries from 201
 * Performance evaluation
 
 **⚙️ Tech Stack**
-Python 🐍
-Pandas & NumPy
-Matplotlib & Seaborn 📊
-Scikit-learn
-Time Series Forecasting Models (ARIMA / LSTM / etc.)
+* Python 🐍
+* Pandas & NumPy
+* Matplotlib & Seaborn 📊
+* Scikit-learn
+* Time Series Forecasting Models (ARIMA / LSTM / etc.)
 
 **📊 Key Insights**
 * Identified short-term price fluctuations
